@@ -5,12 +5,15 @@
 Anastasiia Stepakhina
 
 ### 2. Contact info
+
 * *E-mail*: STEP.Nst@gmail.com
 * *Telegram*: @yenast
 * *LinkedIn*: Anastasiia Stepakhina
 ### 3. Summary
+
 While studying at school, I was learned the design and layout of sites on ucoz service. For the last year I have been doing self-development in front-end.
 ### 4. Skills
+
 * HTML&CSS;
 * Basics knowledge JavaScript, Figma;
 * Grid;
