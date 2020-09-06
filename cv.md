@@ -19,6 +19,7 @@ While studying at school, I was learned the design and layout of sites on ucoz s
 * Zeplin, Marsy;
 * Adobe Photoshop and Illustrator.
 ### 5. Code and sites examples 
+
 [Last Code](https://github.com/telleQ/training/blob/master/index.html)
 | [Example 1](https://gracious-brahmagupta-b05d3a.netlify.app/)
 | [Example 2](https://tender-lalande-3d0dfe.netlify.app/)
