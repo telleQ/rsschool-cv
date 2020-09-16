@@ -1,7 +1,7 @@
 # RESUME
 
 ### 1. My photo, First Name, Last Name
-![Это опциональный alt-текст](https://telleq.github.io/rsschool-cv/img/photo.jpg)
+![Photo: Anastasiia Stepakhina](https://telleq.github.io/rsschool-cv/img/photo.jpg)
 
 __Anastasiia Stepakhina__
 
